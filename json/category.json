@@ -1,0 +1,484 @@
+{
+  "male": [
+    {
+      "name": "玄幻",
+      "bookCount": 552529,
+      "monthlyCount": 22012,
+      "icon": "/icon/玄幻_.png",
+      "bookCover": [
+        "http://img.1391.com/api/v1/bookcenter/cover/1/1228859/1228859_d14f18e849b34420904ead54936e440a.jpg/",
+        "http://img.1391.com/api/v1/bookcenter/cover/1/2107590/2107590_2607eaf03b2542ba88e4b75ac96bb12c.jpg/",
+        "http://img.1391.com/api/v1/bookcenter/cover/1/41584/41584_873f1d8b2f7a447a8c59f3573094db1b.jpg/"
+      ]
+    },
+    {
+      "name": "奇幻",
+      "bookCount": 62795,
+      "monthlyCount": 2084,
+      "icon": "/icon/奇幻_.png",
+      "bookCover": [
+        "http://img.1391.com/api/v1/bookcenter/cover/1/2328044/2328044_3077a625538f4ef29384ba71e7387736.jpg/",
+        "http://img.1391.com/api/v1/bookcenter/cover/1/2229427/2229427_b89561dfb0ff476281e95642b63032e4.jpg/",
+        "http://img.1391.com/api/v1/bookcenter/cover/1/1130743/1130743_42e9200c279a48b7a31001d363ba401c.jpg/"
+      ]
+    },
+    {
+      "name": "武侠",
+      "bookCount": 47785,
+      "monthlyCount": 1637,
+      "icon": "/icon/武侠_.png",
+      "bookCover": [
+        "http://img.1391.com/api/v1/bookcenter/cover/1/682805/682805_ad98924f53e74138a50e69208bd579be.png/",
+        "http://img.1391.com/api/v1/bookcenter/cover/1/994219/994219_21eb3060590440f9b8fd0c73895b8728.jpg/",
+        "http://img.1391.com/api/v1/bookcenter/cover/1/2214174/2214174_edf5c5b304aa4c628faf0994b7f04d9c.jpg/"
+      ]
+    },
+    {
+      "name": "仙侠",
+      "bookCount": 152318,
+      "monthlyCount": 7547,
+      "icon": "/icon/仙侠_.png",
+      "bookCover": [
+        "http://img.1391.com/api/v1/bookcenter/cover/1/2014980/2014980_4886fb1ed53f453a9a76005611a3310a.jpg/",
+        "http://img.1391.com/api/v1/bookcenter/cover/1/1188355/1188355_9989e2c949d147f0ac423da594a54b3f.jpg/",
+        "http://img.1391.com/api/v1/bookcenter/cover/1/2126166/2126166_c1002339e5664d7bb1a536e2608fa599.jpg/"
+      ]
+    },
+    {
+      "name": "都市",
+      "bookCount": 379335,
+      "monthlyCount": 15609,
+      "icon": "/icon/都市_.png",
+      "bookCover": [
+        "http://img.1391.com/api/v1/bookcenter/cover/1/857368/857368_8428516582234635819871b0dd5862e7.jpg/",
+        "http://img.1391.com/api/v1/bookcenter/cover/1/2078208/2078208_c0b7721c06b744baa3883f514a113120.jpg/",
+        "http://img.1391.com/api/v1/bookcenter/cover/1/683354/683354_f01a24b90d6a429c8c052614cc2d6ede.jpg/"
+      ]
+    },
+    {
+      "name": "职场",
+      "bookCount": 17783,
+      "monthlyCount": 900,
+      "icon": "/icon/职场_.png",
+      "bookCover": [
+        "http://img.1391.com/api/v1/bookcenter/cover/1/1159594/1159594_5a3bc597b4f94a76b8f615471563f6a8.jpg/",
+        "http://img.1391.com/api/v1/bookcenter/cover/1/2324039/2324039_c8676697c9324ff6a32b23b0f2813bca.jpg/",
+        "http://img.1391.com/api/v1/bookcenter/cover/1/870182/870182_169292f059144c8e8932d52834219316.JPG/"
+      ]
+    },
+    {
+      "name": "历史",
+      "bookCount": 76575,
+      "monthlyCount": 2826,
+      "icon": "/icon/历史_.png",
+      "bookCover": [
+        "http://img.1391.com/api/v1/bookcenter/cover/1/2326717/2326717_fa135a1044fa4602854e9cbe2f0663d5.jpg/",
+        "http://img.1391.com/api/v1/bookcenter/cover/1/2371361/2371361_7deb47a053ce4fc0a3f7e42ae72cf4d3.jpg/",
+        "http://img.1391.com/api/v1/bookcenter/cover/1/2078199/2078199_242a8ffcc41a4482b150ea28aa962c92.jpg/"
+      ]
+    },
+    {
+      "name": "军事",
+      "bookCount": 16389,
+      "monthlyCount": 806,
+      "icon": "/icon/军事_.png",
+      "bookCover": [
+        "http://img.1391.com/api/v1/bookcenter/cover/1/2266163/2266163_7ffd0ca6a6544f5f90a557478d325ef3.jpg/",
+        "http://img.1391.com/api/v1/bookcenter/cover/1/2405465/2405465_f5af4826bd8d4fbca23e64c0d1a22fa7.jpg/",
+        "http://img.1391.com/api/v1/bookcenter/cover/1/1164563/1164563_ad4392e59bcf434eac97df5c71d1d3ad.jpg/"
+      ]
+    },
+    {
+      "name": "游戏",
+      "bookCount": 87266,
+      "monthlyCount": 2546,
+      "icon": "/icon/游戏_.png",
+      "bookCover": [
+        "http://img.1391.com/api/v1/bookcenter/cover/1/2044454/2044454_5ca42e40354d4b898fa81d953a56320b.jpg/",
+        "http://img.1391.com/api/v1/bookcenter/cover/1/2194747/2194747_b15f4efee26647bab7c7bbdb654da586.jpg/",
+        "http://img.1391.com/api/v1/bookcenter/cover/1/2202011/2202011_412601e37a0849f6a01519603f1c20e7.jpg/"
+      ]
+    },
+    {
+      "name": "竞技",
+      "bookCount": 6501,
+      "monthlyCount": 355,
+      "icon": "/icon/竞技_.png",
+      "bookCover": [
+        "http://img.1391.com/api/v1/bookcenter/cover/1/2406312/2406312_51d09a6f10a44dcf82c87336ae29bcc2.jpg/",
+        "http://img.1391.com/api/v1/bookcenter/cover/1/2666276/2666276_0a1836381893480f8191fd5abea07a27.jpg/",
+        "http://img.1391.com/api/v1/bookcenter/cover/1/2379309/2379309_eccf51f45dc14c079be9a399120b6da7.jpg/"
+      ]
+    },
+    {
+      "name": "科幻",
+      "bookCount": 126112,
+      "monthlyCount": 2676,
+      "icon": "/icon/科幻_.png",
+      "bookCover": [
+        "http://img.1391.com/api/v1/bookcenter/cover/1/2175391/2175391_2bed95dd170047198e9c550dde86f165.jpg/",
+        "http://img.1391.com/api/v1/bookcenter/cover/1/2280410/2280410_972b063c4024437db50d489a84a428b3.jpg/",
+        "http://img.1391.com/api/v1/bookcenter/cover/1/2185682/2185682_71d32109ecd84cd4801d65662746bb83.jpg/"
+      ]
+    },
+    {
+      "name": "灵异",
+      "bookCount": 52258,
+      "monthlyCount": 5197,
+      "icon": "/icon/灵异_.png",
+      "bookCover": [
+        "http://img.1391.com/api/v1/bookcenter/cover/1/2437722/2437722_0ae1b0af1e4643829952042800e879c5.jpg/",
+        "http://img.1391.com/api/v1/bookcenter/cover/1/2225869/2225869_fbfd4ee3058f4c3ca6158395349eafb3.jpg/",
+        "http://img.1391.com/api/v1/bookcenter/cover/1/2190222/2190222_35193469a0ab4198b58e13ec34d49b47.jpg/"
+      ]
+    },
+    {
+      "name": "同人",
+      "bookCount": 46609,
+      "monthlyCount": 380,
+      "icon": "/icon/同人_.png",
+      "bookCover": [
+        "http://img.1391.com/api/v1/bookcenter/cover/1/2044717/2044717_8909c1c627e441aa9009cd1c8d26af42.jpg/",
+        "http://img.1391.com/api/v1/bookcenter/cover/1/1518279/1518279_f75d8d0662ba4fb18224be37cd75621c.jpg/",
+        "http://img.1391.com/api/v1/bookcenter/cover/1/2285082/2285082_3649f567ac784043affd6ff39d488225.jpg/"
+      ]
+    },
+    {
+      "name": "轻小说",
+      "bookCount": 9514,
+      "monthlyCount": 375,
+      "icon": "/icon/轻小说_.png",
+      "bookCover": [
+        "http://img.1391.com/api/v1/bookcenter/cover/1/2204326/2204326_65ffd88476dc4894a9a970eeeda5cf89.jpg/",
+        "http://img.1391.com/api/v1/bookcenter/cover/1/2148568/2148568_4db5ac006b1342679135213b943cca19.jpg/",
+        "http://img.1391.com/api/v1/bookcenter/cover/1/2148576/2148576_626b71c9e87143c7920ef7188e45c7e7.jpg/"
+      ]
+    }
+  ],
+  "female": [
+    {
+      "name": "古代言情",
+      "bookCount": 549903,
+      "monthlyCount": 15250,
+      "icon": "/icon/古代言情_.png",
+      "bookCover": [
+        "http://img.1391.com/api/v1/bookcenter/cover/1/2045755/2045755_7a7a750f61f64703977e72cca5c8dc90.jpg/",
+        "http://img.1391.com/api/v1/bookcenter/cover/1/1505754/1505754_81b22622819e476fb78b2d760f94b617.jpg/",
+        "http://img.1391.com/api/v1/bookcenter/cover/1/1158081/1158081_0340c4bbf5c144c885a089d96714753d.jpg/"
+      ]
+    },
+    {
+      "name": "现代言情",
+      "bookCount": 674141,
+      "monthlyCount": 21084,
+      "icon": "/icon/现代言情_.png",
+      "bookCover": [
+        "http://img.1391.com/api/v1/bookcenter/cover/1/84550/84550_d9200ccb1ab0488ea8a1697143f5bba5.jpg/",
+        "http://img.1391.com/api/v1/bookcenter/cover/1/2148350/2148350_934ff2b4b6d14bd7949be61df7eed913.jpg/",
+        "http://img.1391.com/api/v1/bookcenter/cover/1/1367041/1367041_b7b17cbc9538413d9f4f4ed7a1e4fb02.jpg/"
+      ]
+    },
+    {
+      "name": "青春校园",
+      "bookCount": 149398,
+      "monthlyCount": 2979,
+      "icon": "/icon/青春校园_.png",
+      "bookCover": [
+        "http://img.1391.com/api/v1/bookcenter/cover/1/1200747/1200747_8acedaa3e7a547a8843feca07120b2c9.jpg/",
+        "http://img.1391.com/api/v1/bookcenter/cover/1/2279091/2279091_9ad0367ced944ec5b1e0c1c96a11fab6.jpg/",
+        "http://img.1391.com/api/v1/bookcenter/cover/1/2238873/2238873_8ef2608ca0634a38aa52dfdad35ae5ca.jpg/"
+      ]
+    },
+    {
+      "name": "纯爱",
+      "bookCount": 136677,
+      "monthlyCount": 1567,
+      "icon": "/icon/耽美_.png",
+      "bookCover": [
+        "http://img.1391.com/api/v1/bookcenter/cover/1/1174497/1174497_707e402c40c64a60ac7bc223f3a2c4ac.jpg/",
+        "http://img.1391.com/api/v1/bookcenter/cover/1/2390042/2390042_3179d98d74f54b3b9939d32a391c0a42.jpg/",
+        "http://img.1391.com/api/v1/bookcenter/cover/1/2270940/2270940_1605fc0e69614bb3861a8463f4da2d61.jpg/"
+      ]
+    },
+    {
+      "name": "玄幻奇幻",
+      "bookCount": 147532,
+      "monthlyCount": 813,
+      "icon": "/icon/玄幻奇幻_.png",
+      "bookCover": [
+        "http://img.1391.com/api/v1/bookcenter/cover/1/42127/42127_f23f08d9dd1942c8923cedd192425a22.jpg/",
+        "http://img.1391.com/api/v1/bookcenter/cover/1/1240992/1240992_ab6af3f8592e44d08eee43e18a7ee6f2.jpg/",
+        "http://img.1391.com/api/v1/bookcenter/cover/1/1524128/1524128_f4de778eb9484abb8a04f511dc6cae27.jpg/"
+      ]
+    },
+    {
+      "name": "武侠仙侠",
+      "bookCount": 76303,
+      "monthlyCount": 1861,
+      "icon": "/icon/武侠仙侠_.png",
+      "bookCover": [
+        "http://img.1391.com/api/v1/bookcenter/cover/1/2238871/2238871_6bc7ecde28084a0c984a2cbd5d1b61ed.jpg/",
+        "http://img.1391.com/api/v1/bookcenter/cover/1/243028/_243028_470038.jpg/",
+        "http://img.1391.com/api/v1/bookcenter/cover/1/2282012/2282012_216dd1f93a414b5e9df531d05497bdb9.jpg/"
+      ]
+    },
+    {
+      "name": "科幻",
+      "bookCount": 17734,
+      "monthlyCount": 515,
+      "icon": "/icon/科幻_.png",
+      "bookCover": [
+        "http://img.1391.com/api/v1/bookcenter/cover/1/2207711/2207711_524c81ce00b74c508dcb8fa7cac18c75.jpg/",
+        "http://img.1391.com/api/v1/bookcenter/cover/1/2329345/2329345_e76b549524a948978e3c9f2548f43406.jpg/",
+        "http://img.1391.com/api/v1/bookcenter/cover/1/2189051/2189051_3531d35fe6d44414afb80aa8d7d4c10c.jpg/"
+      ]
+    },
+    {
+      "name": "游戏竞技",
+      "bookCount": 6048,
+      "monthlyCount": 4,
+      "icon": "/icon/游戏竞技_.png",
+      "bookCover": [
+        "http://img.1391.com/api/v1/bookcenter/cover/1/2988885/2988885_5f38079f513a47f6aa996bfccf4b56c6.jpg/",
+        "http://bbs.jjwxc.net/upload/201601/07/07-eacb34c.jpg",
+        "http://img.1391.com/api/v1/bookcenter/cover/1/2908738/2908738_964840284be24a3bb781e1c35c1cbc4a.jpg/"
+      ]
+    },
+    {
+      "name": "悬疑灵异",
+      "bookCount": 17721,
+      "monthlyCount": 1110,
+      "icon": "/icon/悬疑灵异_.png",
+      "bookCover": [
+        "http://img.1391.com/api/v1/bookcenter/cover/1/1457026/1457026_3aeb19659f0c460a8e86a997efbb6534.jpg/",
+        "http://img.1391.com/api/v1/bookcenter/cover/1/1423134/1423134_4d765d70d7f44151b44cad100d42bb4a.jpg/",
+        "http://img.1391.com/api/v1/bookcenter/cover/1/2230500/2230500_28d011702e3f4d9899e54bcf70b1890a.jpg/"
+      ]
+    },
+    {
+      "name": "同人",
+      "bookCount": 121060,
+      "monthlyCount": 355,
+      "icon": "/icon/同人_.png",
+      "bookCover": [
+        "http://img.1391.com/api/v1/bookcenter/cover/1/2194234/2194234_d5cd733ac0f54e21a637ca9fec6c0a17.jpg/",
+        "http://img.1391.com/api/v1/bookcenter/cover/1/2229966/2229966_8bd448377b104a29bba4f748d1f2d7be.jpg/",
+        "http://img.1391.com/api/v1/bookcenter/cover/1/1187728/1187728_289aab2057974cf7a595349d21fdf1e6.jpg/"
+      ]
+    },
+    {
+      "name": "女尊",
+      "bookCount": 22407,
+      "monthlyCount": 1469,
+      "icon": "/icon/女尊_.png",
+      "bookCover": [
+        "http://img.1391.com/api/v1/bookcenter/cover/1/851414/_851414_740896.jpg/",
+        "http://img.1391.com/api/v1/bookcenter/cover/1/857217/857217_34eea5a4425d4437896b19d2774ac5da.jpg/",
+        "http://img.1391.com/api/v1/bookcenter/cover/1/2148904/2148904_1d79dbaf3b9e4b448a90097bd835b6fe.jpg/"
+      ]
+    },
+    {
+      "name": "莉莉",
+      "bookCount": 26301,
+      "monthlyCount": 66,
+      "icon": "/icon/百合_.png",
+      "bookCover": [
+        "http://img.1391.com/api/v1/bookcenter/cover/1/2190643/2190643_3b1ea6afd88d49eab7997ce14e100c6a.jpg/",
+        "http://ww1.sinaimg.cn/bmiddle/005K5T3Ogw1ezekp64o88j30b40fk3zd.jpg",
+        "http://ww2.sinaimg.cn/mw690/005Yhuttgw1ewms1912rfj305k07saa4.jpg"
+      ]
+    }
+  ],
+  "picture": [
+    {
+      "name": "热血",
+      "bookCount": 846,
+      "monthlyCount": 121,
+      "icon": "/icon/热血_.png",
+      "bookCover": [
+        "http://img.1391.com/api/v1/bookcenter/cover/1/168407/168407_749f2be713ea464193b3b4d8e314e00a.jpg/",
+        "http://img.1391.com/api/v1/bookcenter/cover/1/2225872/2225872_67c9061a735f4846bb4cc98b7dd56026.png/",
+        "http://img.1391.com/api/v1/bookcenter/cover/1/2187880/2187880_b68f8b06b12b4185bef610bb5b453e62.jpg/"
+      ]
+    },
+    {
+      "name": "魔幻",
+      "bookCount": 396,
+      "monthlyCount": 57,
+      "icon": "/icon/魔幻_.png",
+      "bookCover": [
+        "http://img.1391.com/api/v1/bookcenter/cover/1/2225868/2225868_d6fb403eff2e407bbf1a2d43b7c85438.png/",
+        "http://img.1391.com/api/v1/bookcenter/cover/1/176271/176271_69ff019fe748444a9c27bfd55f71f21c.jpg/",
+        "http://img.1391.com/api/v1/bookcenter/cover/1/2225787/2225787_b75c7142b03e445898b3079c73859fce.png/"
+      ]
+    },
+    {
+      "name": "科幻",
+      "bookCount": 24,
+      "monthlyCount": 0,
+      "icon": "/icon/科幻_.png",
+      "bookCover": [
+        "http://img.1391.com/api/v1/bookcenter/cover/1/195515/195515_b8f4e7f66e604c4293fcc462f048a948.jpg/",
+        "http://img.1391.com/api/v1/bookcenter/cover/1/149517/0cbbc5b49903426b8b9e3d9ee5318fb0.jpg/",
+        "http://img.1391.com/api/v1/bookcenter/cover/1/195173/b0e15a8a4d8946df9b32d442922274d7.jpg/"
+      ]
+    },
+    {
+      "name": "恋爱",
+      "bookCount": 1159,
+      "monthlyCount": 162,
+      "icon": "/icon/恋爱_.png",
+      "bookCover": [
+        "http://img.1391.com/api/v1/bookcenter/cover/1/2156329/2156329_0f2e8fe8735442eea57af32115583e8c.jpg/",
+        "http://img.1391.com/api/v1/bookcenter/cover/1/180377/180377_620cd542bf0844a1a254fed5258bd3bc.jpg/",
+        "http://img.1391.com/api/v1/bookcenter/cover/1/181593/181593_7d0ed3768c8949b798ab1752523e10aa.jpg/"
+      ]
+    },
+    {
+      "name": "搞笑",
+      "bookCount": 1289,
+      "monthlyCount": 76,
+      "icon": "/icon/搞笑_.png",
+      "bookCover": [
+        "http://img.1391.com/api/v1/bookcenter/cover/1/2185190/2185190_02b51397c05d48b1baefd51fcaaa6023.jpg/",
+        "http://img.1391.com/api/v1/bookcenter/cover/1/173734/173734_c6d2e07448574d86801f1ad97b39aa24.jpg/",
+        "http://img.1391.com/api/v1/bookcenter/cover/1/2443200/2443200_055de269532a4a8a9a39bf511b927209.jpg/"
+      ]
+    },
+    {
+      "name": "悬疑",
+      "bookCount": 441,
+      "monthlyCount": 91,
+      "icon": "/icon/悬疑_.png",
+      "bookCover": [
+        "http://img.1391.com/api/v1/bookcenter/cover/1/177507/177507_31432d7db10f49e9868278d24f20e1ca.jpg/",
+        "http://img.1391.com/api/v1/bookcenter/cover/1/2209161/2209161_8edb77d76a3b4ebf94d1e2a2d79e58e5.jpg/",
+        "http://img.1391.com/api/v1/bookcenter/cover/1/180667/180667_0f7887e0135f458bbd6f69f6b52d2540.jpg/"
+      ]
+    },
+    {
+      "name": "少儿",
+      "bookCount": 4551,
+      "monthlyCount": 1554,
+      "icon": "/icon/少儿_.png",
+      "bookCover": [
+        "http://img.1391.com/api/v1/bookcenter/cover/1/197939/ff8713cfd9cd4893a49db3564d3811e4.jpg/",
+        "http://img.1391.com/api/v1/bookcenter/cover/1/2079559/2079559_69f74d5ee39a400b84581d668d7641ad.jpg/",
+        "http://img.1391.com/api/v1/bookcenter/cover/1/196548/b2fcd3c723d842f499d9c4d25c386761.jpg/"
+      ]
+    }
+  ],
+  "press": [
+    {
+      "name": "传记名著",
+      "bookCount": 5642,
+      "monthlyCount": 1461,
+      "icon": "/icon/传记名著_.png",
+      "bookCover": [
+        "http://img.1391.com/api/v1/bookcenter/cover/1/42798/42798_72627be42841400d89e32bf8db97ec34.jpg/",
+        "http://img.1391.com/api/v1/bookcenter/cover/1/783085/_783085_901809.jpg/",
+        "http://img.1391.com/api/v1/bookcenter/cover/1/2075756/2075756_99b5aa24734d48aebbc086d1522e0c09.jpg/"
+      ]
+    },
+    {
+      "name": "出版小说",
+      "bookCount": 17334,
+      "monthlyCount": 3754,
+      "icon": "/icon/出版小说_.png",
+      "bookCover": [
+        "http://img.1391.com/api/v1/bookcenter/cover/1/55056/_55056_260551.jpg/",
+        "http://img.1391.com/api/v1/bookcenter/cover/1/1468251/1468251_11c57b5ceb124572ab3784e360257b73.jpg/",
+        "http://img.1391.com/api/v1/bookcenter/cover/1/41937/_41937_602423.jpg/"
+      ]
+    },
+    {
+      "name": "人文社科",
+      "bookCount": 70198,
+      "monthlyCount": 14133,
+      "icon": "/icon/人文社科_.png",
+      "bookCover": [
+        "http://img.1391.com/api/v1/bookcenter/cover/1/2053642/2053642_1675460130664e3295282eeea531f0b9.jpg/",
+        "http://img.1391.com/api/v1/bookcenter/cover/1/1479473/_1479473_536534.jpg/",
+        "http://img.1391.com/api/v1/bookcenter/cover/1/1479474/_1479474_548964.jpg/"
+      ]
+    },
+    {
+      "name": "生活时尚",
+      "bookCount": 3299,
+      "monthlyCount": 490,
+      "icon": "/icon/生活时尚_.png",
+      "bookCover": [
+        "http://img.1391.com/api/v1/bookcenter/cover/1/2063886/2063886_ee5c3b3bb2cc4332a319c05adea1753f.jpg/",
+        "http://img.1391.com/api/v1/bookcenter/cover/1/1529069/_1529069_328412.jpg/",
+        "http://img.1391.com/api/v1/bookcenter/cover/1/1125603/_1125603_306865.jpg/"
+      ]
+    },
+    {
+      "name": "经管理财",
+      "bookCount": 5970,
+      "monthlyCount": 1747,
+      "icon": "/icon/经管理财_.png",
+      "bookCover": [
+        "http://img.1391.com/api/v1/bookcenter/cover/1/19087/_19087_732103.jpg/",
+        "http://img.1391.com/api/v1/bookcenter/cover/1/718600/_718600_934698.jpg/",
+        "http://img.1391.com/api/v1/bookcenter/cover/1/34695/_34695_083305.jpg/"
+      ]
+    },
+    {
+      "name": "青春言情",
+      "bookCount": 16717,
+      "monthlyCount": 2505,
+      "icon": "/icon/青春言情_.png",
+      "bookCover": [
+        "http://img.1391.com/api/v1/bookcenter/cover/1/2202149/2202149_ab670bc133bb44d9a83264284a97a8bd.jpg/",
+        "http://img.1391.com/api/v1/bookcenter/cover/1/2088321/2088321_f6f1b3ea033341d18ba9b930f50d28b7.jpg/",
+        "http://img.1391.com/api/v1/bookcenter/cover/1/1467665/_1467665_768414.jpg/"
+      ]
+    },
+    {
+      "name": "外文原版",
+      "bookCount": 1683,
+      "monthlyCount": 466,
+      "icon": "/icon/外文原版_.png",
+      "bookCover": [
+        "http://img.1391.com/api/v1/bookcenter/cover/1/2022998/2022998_17ff5053c0344d5db5c892fbd4d9dde6.jpg/",
+        "http://img.1391.com/api/v1/bookcenter/cover/1/42735/_42735_042736.jpg/",
+        "http://img.1391.com/api/v1/bookcenter/cover/1/720814/_720814_179160.jpg/"
+      ]
+    },
+    {
+      "name": "政治军事",
+      "bookCount": 850,
+      "monthlyCount": 263,
+      "icon": "/icon/政治军事_.png",
+      "bookCover": [
+        "http://img.1391.com/api/v1/bookcenter/cover/1/848281/848281_49325481b1054d029fc5c200923c5d24.jpg/",
+        "http://img.1391.com/api/v1/bookcenter/cover/1/597575/597575_bdbe2ad4835346a3b6c876ff715066c6.jpg/",
+        "http://img.1391.com/api/v1/bookcenter/cover/1/2043686/2043686_f6d7f4a2769245648754943037d2e9aa.jpg/"
+      ]
+    },
+    {
+      "name": "成功励志",
+      "bookCount": 12338,
+      "monthlyCount": 2825,
+      "icon": "/icon/成功励志_.png",
+      "bookCover": [
+        "http://img.1391.com/api/v1/bookcenter/cover/1/577424/577424_0414241d5b264c2d9c8787d554a58f63.jpg/",
+        "http://img.1391.com/api/v1/bookcenter/cover/1/1148271/_1148271_859550.jpg/",
+        "http://img.1391.com/api/v1/bookcenter/cover/1/858627/_858627_838818.jpg/"
+      ]
+    },
+    {
+      "name": "育儿健康",
+      "bookCount": 12476,
+      "monthlyCount": 2784,
+      "icon": "/icon/育儿健康_.png",
+      "bookCover": [
+        "http://img.1391.com/api/v1/bookcenter/cover/1/2154248/2154248_51181588edee4bef8d794a534442fc2d.jpg/",
+        "http://img.1391.com/api/v1/bookcenter/cover/1/2077896/2077896_9d45c4efb5734688a31efd793c5cdeb1.jpg/",
+        "http://img.1391.com/api/v1/bookcenter/cover/1/2048782/2048782_f53486f14b72426d9a39be53cbbfc513.jpg/"
+      ]
+    }
+  ],
+  "ok": true
+}
